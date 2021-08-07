@@ -42,6 +42,9 @@ U will need Blynk App and wifi network connected to internet make sure the wifi 
 * MQ  sensor -- A0 on Node MCU and  (v1) on Blynk APP (Use Value display)
 * display module -- D1 D2
 
+### Demo Video
+https://user-images.githubusercontent.com/76607486/128590363-15699e64-352c-41d1-bfdc-0d7643e427f1.mp4
+
 ## Notes
 * Get you API via open weather api
 * currently we are unable to procure the process of running Oled display and gps module simultaneously hence we request you to comment out the one of either and use
