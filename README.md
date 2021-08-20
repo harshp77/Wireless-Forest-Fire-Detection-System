@@ -43,7 +43,7 @@ U will need Blynk App and wifi network connected to internet make sure the wifi 
 * display module -- D1 D2
 
 ### Demo Video
-https://user-images.githubusercontent.com/76607486/128590363-15699e64-352c-41d1-bfdc-0d7643e427f1.mp4
+https://user-images.githubusercontent.com/76607486/130248834-0e4b0627-dedf-46f6-83a3-f2ffaa9ac1a0.mp4
 
 ## Notes
 * Get you API via open weather api
