@@ -53,5 +53,5 @@ https://user-images.githubusercontent.com/76607486/130248834-0e4b0627-dedf-46f6-
 ## Contact
 
 Harsh Pandey - harshpandey00701@gmail.com
-
+Subhanshu Arya - subhanshu20101@iiitnr.edu.in
 Project Link: [https://github.com/harshp77/Wireless-Forest-Fire-Detection-System](https://github.com/harshp77/Wireless-Forest-Fire-Detection-System)
