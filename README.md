@@ -56,4 +56,6 @@ Harsh Pandey - harshpandey00701@gmail.com
 
 Subhanshu Arya - subhanshu20101@iiitnr.edu.in
 
+Aryaman - aryaman20101@iiitnr.edu.in
+
 Project Link: [https://github.com/harshp77/Wireless-Forest-Fire-Detection-System](https://github.com/harshp77/Wireless-Forest-Fire-Detection-System)
